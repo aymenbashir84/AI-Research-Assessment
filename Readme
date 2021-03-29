@@ -1,0 +1,19 @@
+Please find the review papers with following names for part one of the task:
+1)Review-Explainable AI for Classification using Probabilistic Logic Inference
+2)Explainability and Causability in AI - Review Paper
+
+For PART 2 of the task, find the following files:
+1) Dataset in file named 'KaggleV2-May-2016'
+2) Colab Notebook named 'CureMD Assessment'
+3) Kowledge Base with name 'knowledge_base'
+4) Research Paper with name 'Explainable AI for Classification using Probabilistic Logic Inference on Medical Dataset'
+
+Instructions for reviewing the files:
+1) Open Google Colab and upload the python notebook in Colab environment.
+2) Upload the dataset file in the Google Drive
+3) Run the notebook and click on the output of following code:
+      from google.colab import drive
+      drive.mount('/content/drive')
+   and paste the code in the output to mount the dataset file. 
+4) Run the file.
+5) A knowledge base will be saved in drive with the name knowledge base. 
